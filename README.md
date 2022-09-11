@@ -1,7 +1,7 @@
 # TypeErasure
 definite guide to c++ type erasure technique
 
-#Use case
+## Use case
 
 Classic use case for type erasure would be need to fill the container with elements of different type, which by itself is 
 cahllange cause, std containers, for example std:: vector by its declaration requests to define underlying element type,
